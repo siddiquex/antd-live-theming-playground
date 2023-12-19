@@ -12,6 +12,11 @@ This React app serves as a playground for live theming Ant Design(v5) components
 - **Design Tokens:** Customize the app using design tokens to control various aspects of the UI.
 - **Easy to Use:** Simple and intuitive interface for users to experiment with live theming.
 
+## Demo
+https://github.com/siddiquex/antd-live-theming-playground/assets/89839889/476af5fc-f90c-48f8-a2be-17eef27a3ba8
+
+
+
 ### Installation
 
 ```bash
