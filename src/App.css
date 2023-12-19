@@ -1,0 +1,38 @@
+@import "components/common.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#root {
+  overflow: hidden;
+  max-height: 100vh;
+}
+#playground {
+  padding: 2rem;
+  height: 100vh;
+  max-height: 100vh;
+  background-color: rgba(198, 213, 243, 0.35);
+  border-radius: 5px;
+  overflow: hidden;
+}
+#app-preview, #controls {
+  border: 2px solid #232323;
+  border-radius: 5px;
+  padding: 2rem;
+  max-height: 100vh;
+}
+#controls{
+  width: 20%;
+}
+#controls span {
+  color: black;
+}
+#app-preview {
+  width: 80%;
+  overflow: auto;
+}
+#app-preview .app {
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
