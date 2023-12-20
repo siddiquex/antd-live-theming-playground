@@ -32,8 +32,6 @@ npm install
 
 ### Usage
 
-Explain how users can run and use the app. Include any important commands or details they need to know.
-
 ```bash
 # Run the app
 npm run dev
@@ -56,7 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev/) - Fast, opinionated web dev build tool.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [Ant Design](https://ant.design/) - A design system for enterprise-level products.
-
-## Contact
-
-Provide your contact information or links to relevant social media profiles.
